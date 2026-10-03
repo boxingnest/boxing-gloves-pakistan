@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://boxingnest.github.io/boxing-gloves-pakistan/sitemap.xml
